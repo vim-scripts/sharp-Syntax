@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1175
+
+Syntax for C# 2.0.
+
+
+TODO:
+
+- Folding
+- Xml tag in /** */
